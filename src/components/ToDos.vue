@@ -48,6 +48,7 @@ export default {
   cursor: pointer;
   color: wheat;
 }
+
 i {
   position: absolute;
   bottom: 10px;
